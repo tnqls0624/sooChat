@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/.24964c7aa85457955691767b79e4d189ddd69441-audit.json",
+    "files": [
+        {
+            "date": 1665619272508,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-13.info.log",
+            "hash": "b07e4c6d5df54426c942b724a197283f991ab5a882faa4f3354defa0c3444aa4"
+        },
+        {
+            "date": 1665704034056,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-14.info.log",
+            "hash": "9f1ff28ca8e4c1ac29cf05d8d06c0c06e64977d3869f7a72ee88c828f4d9aef7"
+        },
+        {
+            "date": 1665975592262,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-17.info.log",
+            "hash": "24d82ae7e76af473aee6282bd5e7a05e5b0b3c38d5b5f4467081e429645ef7f5"
+        },
+        {
+            "date": 1666080278382,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-18.info.log",
+            "hash": "a3fea1b284e48105d78a7215ffdacd0aa3bb204b1f5e615060b8be90fe7d2baf"
+        },
+        {
+            "date": 1666150098296,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-19.info.log",
+            "hash": "586b7fb064bf9dff55dc8bac2ad5098d30c8fa42c606807c24c32393ee5d9831"
+        },
+        {
+            "date": 1666222050702,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-20.info.log",
+            "hash": "131ada96599ccb3d0f998599c9eaca81c8c0c46354ae4b3f051d9d357167a353"
+        },
+        {
+            "date": 1666435550817,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-22.info.log",
+            "hash": "f18d4cfd7b8a70ac2856a06807296de0464f0bf738db3d222bb37f8071853e25"
+        },
+        {
+            "date": 1666498063667,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-23.info.log",
+            "hash": "4651cc2ea2327c8d519cb898734c31252f62ef0eafe6bdbf9f357f9ebcb42868"
+        },
+        {
+            "date": 1666582237109,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-24.info.log",
+            "hash": "8c34d4feda1bf0e8d86024d13ba0866e2b01f48aaf9308705525ee867cda2d92"
+        },
+        {
+            "date": 1666657252233,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-25.info.log",
+            "hash": "4eb14af33ef3606fb5f368dfbbaa1e9e1734d2bdf891ce6e97dd1e7130972833"
+        },
+        {
+            "date": 1666747266325,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/info/2022-10-26.info.log",
+            "hash": "ca030dbc866917c42a4092da7a0df5378768e71fda31acc19f9300f9eb2dc981"
+        }
+    ],
+    "hashType": "sha256"
+}

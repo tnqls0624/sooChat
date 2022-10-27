@@ -1,0 +1,3 @@
+{"level":"error","message":"Error: listen EADDRINUSE: address already in use :::3000","stack":["NestApplication"]}
+{"level":"error","message":"Error: listen EADDRINUSE: address already in use :::3000","stack":["NestApplication"]}
+{"level":"error","message":"Error: listen EADDRINUSE: address already in use :::3000","stack":["NestApplication"]}

@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/.48cdc32a421d2ff5060d552178ad3f9418511005-audit.json",
+    "files": [
+        {
+            "date": 1665619272509,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-13.error.log",
+            "hash": "53887ffbe0559170031de21b753d01432fdb490fab04dd87e5fe4afd1688fc4b"
+        },
+        {
+            "date": 1665704034058,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-14.error.log",
+            "hash": "5b2005ee36ca5bc33a567dec083756cda0c330e7e7ec4407a4db4968ad7b1d5c"
+        },
+        {
+            "date": 1665975592263,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-17.error.log",
+            "hash": "1e6401a2dfe2c9b9ba98a8e2293bf50c74a9d52f99753e47cf789b3bafd291e2"
+        },
+        {
+            "date": 1666080278383,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-18.error.log",
+            "hash": "f4555a4f9fbeba4a5da94735f5696dc140e511ef846864b568c13cefa59b0c1a"
+        },
+        {
+            "date": 1666150098298,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-19.error.log",
+            "hash": "9973c239a746b0116e89fcd7dec3af6efa275140301112ed8f5e66df38ca85a0"
+        },
+        {
+            "date": 1666222050704,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-20.error.log",
+            "hash": "d106acd6f26d8521162576a48066e4ee580737db89331d7360935c64ebfd8062"
+        },
+        {
+            "date": 1666435550819,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-22.error.log",
+            "hash": "7c88ea32d21fc8b7f8bfdf309d09c690b29085e7acaa7bc79bf3b817586b03ce"
+        },
+        {
+            "date": 1666498063668,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-23.error.log",
+            "hash": "f6bdfa481eb544dd794cd757c74d04d8700e5be88c668fb9c6e43e38488402d3"
+        },
+        {
+            "date": 1666582237115,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-24.error.log",
+            "hash": "6bd6fc2371c1f564ec939c32f66949fc1b5424942b8b15d2a56835fac83f2ad8"
+        },
+        {
+            "date": 1666657252234,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-25.error.log",
+            "hash": "ba53f23941ef6521cb17c267fb0e86a4f963380572b28187616acc6117ff4a41"
+        },
+        {
+            "date": 1666747266326,
+            "name": "/Users/leesoobeen/Desktop/Project/study-room/logs/error/2022-10-26.error.log",
+            "hash": "1eea8648619a4f8a5c6c89678a7a5b14aca471d44e7a8e056dce777532af18f1"
+        }
+    ],
+    "hashType": "sha256"
+}
